@@ -5,7 +5,8 @@
     background-color: #263238;
     transition: background-color 0.7s ease;
 }
-.Cell:hover{
+
+.Cell:hover {
     transition: background-color 0.1s ease;
     background-color: #36474f;
 }

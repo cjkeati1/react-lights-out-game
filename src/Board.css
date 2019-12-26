@@ -33,7 +33,7 @@ table tr:last-child td:last-child {
 }
 
 .neon-orange {
-    font-family: neon;
+    font-family: neon, serif;
     color: #fb4264;
     font-size: 80px;
     text-shadow: 0 0 3vw #f40a35;
@@ -43,7 +43,7 @@ table tr:last-child td:last-child {
 }
 
 .neon-blue {
-    font-family: neon;
+    font-family: neon, serif;
     color: #426dfb;
     font-size: 80px;
     text-shadow: 0 0 3vw #2356ff;
